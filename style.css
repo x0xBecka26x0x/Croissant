@@ -6,12 +6,18 @@ body {
 
 a {
     text-align: center;
-    color: pink;
+    color: rgb(231, 14, 202);
+    margin-bottom: 15px;
+}
+
+h2 {
+    margin-top: 20px;
 }
 
 .container {
     max-width: 900px;
     background: white;
+    color: black;
     margin: 35px auto;
     box-shadow: 0 30px 50px rgba(65, 50, 100, 0.20);
     border-radius: 10px;
